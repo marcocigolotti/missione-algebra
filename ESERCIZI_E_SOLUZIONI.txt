@@ -1,0 +1,199 @@
+1. [Concordi e discordi] I numeri +3 e +7 sono…
+Risposta: Concordi
+Spiegazione: Hanno segni uguali: sono concordi.
+
+2. [Concordi e discordi] I numeri -4 e -9 sono…
+Risposta: Concordi
+Spiegazione: Hanno segni uguali: sono concordi.
+
+3. [Concordi e discordi] I numeri +5 e -8 sono…
+Risposta: Discordi
+Spiegazione: Hanno segni diversi: sono discordi.
+
+4. [Concordi e discordi] I numeri -6 e +2 sono…
+Risposta: Discordi
+Spiegazione: Hanno segni diversi: sono discordi.
+
+5. [Concordi e discordi] I numeri +9 e +1 sono…
+Risposta: Concordi
+Spiegazione: Hanno segni uguali: sono concordi.
+
+6. [Concordi e discordi] I numeri -2 e -7 sono…
+Risposta: Concordi
+Spiegazione: Hanno segni uguali: sono concordi.
+
+7. [Concordi e discordi] I numeri +4 e -3 sono…
+Risposta: Discordi
+Spiegazione: Hanno segni diversi: sono discordi.
+
+8. [Concordi e discordi] I numeri -8 e +6 sono…
+Risposta: Discordi
+Spiegazione: Hanno segni diversi: sono discordi.
+
+9. [Concordi e discordi] I numeri +2 e +11 sono…
+Risposta: Concordi
+Spiegazione: Hanno segni uguali: sono concordi.
+
+10. [Concordi e discordi] I numeri -5 e -1 sono…
+Risposta: Concordi
+Spiegazione: Hanno segni uguali: sono concordi.
+
+11. [Numeri relativi] (+7) + (-4)
+Risposta: 3
+Spiegazione: (+7) + (-4) = +3. Con segni diversi sottrai i valori assoluti e usa il segno del numero con valore assoluto maggiore.
+
+12. [Numeri relativi] (-6) + (-3)
+Risposta: -9
+Spiegazione: (-6) + (-3) = -9. Con segni uguali somma i valori assoluti e conserva il segno.
+
+13. [Numeri relativi] (-8) + (+5)
+Risposta: -3
+Spiegazione: (-8) + (+5) = -3. Con segni diversi sottrai i valori assoluti e usa il segno del numero con valore assoluto maggiore.
+
+14. [Numeri relativi] (+4) − (-7)
+Risposta: 11
+Spiegazione: (+4) − (-7) = +11. Nella sottrazione aggiungi l’opposto del secondo numero.
+
+15. [Numeri relativi] (-5) − (-2)
+Risposta: -3
+Spiegazione: (-5) − (-2) = -3. Nella sottrazione aggiungi l’opposto del secondo numero.
+
+16. [Numeri relativi] (-3) × (+4)
+Risposta: -12
+Spiegazione: (-3) × (+4) = -12. Nel prodotto e nel quoziente: segni uguali danno +, diversi danno −.
+
+17. [Numeri relativi] (-4) × (-3)
+Risposta: 12
+Spiegazione: (-4) × (-3) = +12. Nel prodotto e nel quoziente: segni uguali danno +, diversi danno −.
+
+18. [Numeri relativi] (+18) ÷ (-3)
+Risposta: -6
+Spiegazione: (+18) ÷ (-3) = -6. Nel prodotto e nel quoziente: segni uguali danno +, diversi danno −.
+
+19. [Numeri relativi] (-20) ÷ (-5)
+Risposta: 4
+Spiegazione: (-20) ÷ (-5) = +4. Nel prodotto e nel quoziente: segni uguali danno +, diversi danno −.
+
+20. [Numeri relativi] (+9) + (-12)
+Risposta: -3
+Spiegazione: (+9) + (-12) = -3. Con segni diversi sottrai i valori assoluti e usa il segno del numero con valore assoluto maggiore.
+
+21. [Monomi] (3x) + (2x)
+Risposta: 5x
+Spiegazione: Somma i coefficienti: 3 + (2) = 5. La parte letterale resta x. Risultato: 5x.
+
+22. [Monomi] (7x) + (-4x)
+Risposta: 3x
+Spiegazione: Somma i coefficienti: 7 + (-4) = 3. La parte letterale resta x. Risultato: 3x.
+
+23. [Monomi] (-3x) + (-2x)
+Risposta: -5x
+Spiegazione: Somma i coefficienti: -3 + (-2) = -5. La parte letterale resta x. Risultato: -5x.
+
+24. [Monomi] (5x) + (-8x)
+Risposta: -3x
+Spiegazione: Somma i coefficienti: 5 + (-8) = -3. La parte letterale resta x. Risultato: -3x.
+
+25. [Monomi] (-6x) + (9x)
+Risposta: 3x
+Spiegazione: Somma i coefficienti: -6 + (9) = 3. La parte letterale resta x. Risultato: 3x.
+
+26. [Monomi] (-2x) × (3x)
+Risposta: -6x²
+Spiegazione: Moltiplica i coefficienti: (−2) × 3 = −6. Moltiplica le lettere: x × x = x². Risultato: −6x².
+
+27. [Monomi] (4x²) × (2x)
+Risposta: 8x³
+Spiegazione: 4 × 2 = 8; x² × x = x³ perché 2 + 1 = 3. Risultato: 8x³.
+
+28. [Monomi] (12x³) ÷ (3x)
+Risposta: 4x²
+Spiegazione: 12 ÷ 3 = 4; x³ ÷ x = x² perché 3 − 1 = 2. Risultato: 4x². La divisione richiede x diverso da zero.
+
+29. [Monomi] (-2x)²
+Risposta: 4x²
+Spiegazione: (−2)² = 4 e x² resta x². Quindi (−2x)² = 4x².
+
+30. [Monomi] (7x) − (3x)
+Risposta: 4x
+Spiegazione: Sottrai i coefficienti: 7 − 3 = 4. La parte letterale resta x. Risultato: 4x.
+
+31. [Potenze] (-2)^2
+Risposta: 4
+Spiegazione: La base -2 si moltiplica per se stessa 2 volte: il risultato è 4.
+
+32. [Potenze] (-2)^3
+Risposta: -8
+Spiegazione: La base -2 si moltiplica per se stessa 3 volte: il risultato è -8.
+
+33. [Potenze] (-3)^2
+Risposta: 9
+Spiegazione: La base -3 si moltiplica per se stessa 2 volte: il risultato è 9.
+
+34. [Potenze] (2)^4
+Risposta: 16
+Spiegazione: La base 2 si moltiplica per se stessa 4 volte: il risultato è 16.
+
+35. [Potenze] (-1)^3
+Risposta: -1
+Spiegazione: La base -1 si moltiplica per se stessa 3 volte: il risultato è -1.
+
+36. [Potenze] (-1)^4
+Risposta: 1
+Spiegazione: La base -1 si moltiplica per se stessa 4 volte: il risultato è 1.
+
+37. [Potenze] (3)^3
+Risposta: 27
+Spiegazione: La base 3 si moltiplica per se stessa 3 volte: il risultato è 27.
+
+38. [Potenze] (-4)^2
+Risposta: 16
+Spiegazione: La base -4 si moltiplica per se stessa 2 volte: il risultato è 16.
+
+39. [Potenze] (5)^2
+Risposta: 25
+Spiegazione: La base 5 si moltiplica per se stessa 2 volte: il risultato è 25.
+
+40. [Potenze] (-3)^3
+Risposta: -27
+Spiegazione: La base -3 si moltiplica per se stessa 3 volte: il risultato è -27.
+
+41. [Espressioni] (2x) + (3x) + (4)
+Risposta: 5x + 4
+Spiegazione: Raggruppa i termini con x: 2 + (3) = 5. Il numero 4 resta separato. Risultato: 5x + 4.
+
+42. [Espressioni] (4x) + (-2x) + (3)
+Risposta: 2x + 3
+Spiegazione: Raggruppa i termini con x: 4 + (-2) = 2. Il numero 3 resta separato. Risultato: 2x + 3.
+
+43. [Espressioni] (-3x) + (5x) + (2)
+Risposta: 2x + 2
+Spiegazione: Raggruppa i termini con x: -3 + (5) = 2. Il numero 2 resta separato. Risultato: 2x + 2.
+
+44. [Espressioni] (6x) + (-4x) + (-1)
+Risposta: 2x − 1
+Spiegazione: Raggruppa i termini con x: 6 + (-4) = 2. Il numero -1 resta separato. Risultato: 2x − 1.
+
+45. [Espressioni] (3x) + (2x) + (-5)
+Risposta: 5x − 5
+Spiegazione: Raggruppa i termini con x: 3 + (2) = 5. Il numero -5 resta separato. Risultato: 5x − 5.
+
+46. [Espressioni] (-2x) + (7x) + (1)
+Risposta: 5x + 1
+Spiegazione: Raggruppa i termini con x: -2 + (7) = 5. Il numero 1 resta separato. Risultato: 5x + 1.
+
+47. [Espressioni] (5x) + (-3x) + (6)
+Risposta: 2x + 6
+Spiegazione: Raggruppa i termini con x: 5 + (-3) = 2. Il numero 6 resta separato. Risultato: 2x + 6.
+
+48. [Espressioni] (1x) + (4x) + (-2)
+Risposta: 5x − 2
+Spiegazione: Raggruppa i termini con x: 1 + (4) = 5. Il numero -2 resta separato. Risultato: 5x − 2.
+
+49. [Espressioni] (-4x) + (6x) + (3)
+Risposta: 2x + 3
+Spiegazione: Raggruppa i termini con x: -4 + (6) = 2. Il numero 3 resta separato. Risultato: 2x + 3.
+
+50. [Espressioni] (7x) + (-5x) + (2)
+Risposta: 2x + 2
+Spiegazione: Raggruppa i termini con x: 7 + (-5) = 2. Il numero 2 resta separato. Risultato: 2x + 2.

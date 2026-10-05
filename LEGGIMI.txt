@@ -1,0 +1,23 @@
+MISSIONE ALGEBRA — Gioco didattico ideato dal Prof. Marco Cigolotti
+
+PACCHETTO PRONTO PER GITHUB PAGES
+1. Estrai lo ZIP.
+2. Crea un repository su GitHub, per esempio missione-algebra.
+3. Carica tutti i file contenuti nella cartella missione-algebra nella radice del repository. index.html deve trovarsi nella radice, senza un'ulteriore cartella esterna.
+4. In Settings > Pages seleziona Deploy from a branch, branch main, cartella / (root), quindi Save.
+5. Apri il collegamento mostrato da GitHub Pages quando la pubblicazione è pronta.
+Puoi anche provare il gioco aprendo index.html sul computer.
+
+REGOLE
+Scegli Standard o Facilitata. Completa 20 esercizi. Ogni partita pesca 4 esercizi da ciascuna delle 5 categorie (50 esercizi nel database), senza ripetizioni interne. Le categorie si alternano; ordine delle domande e delle risposte casuale a ogni nuova missione. La casualità non garantisce che non ricompaiano esercizi di partite precedenti.
+Una stella per una risposta corretta al primo tentativo. Nessuna penalità di tempo. Se sbagli, ricevi un suggerimento e puoi riprovare. Quando rispondi correttamente compare la spiegazione: leggila prima di proseguire. Anche usando Aiuto puoi ottenere una stella. Le stelle non costituiscono un voto scolastico.
+I 5 nuclei si riattivano completando 4 esercizi della rispettiva categoria. Il risultato indica le risposte corrette al primo tentativo per argomento.
+
+ACCESSIBILITÀ
+La modalità Facilitata usa gli stessi 50 esercizi, con testo più grande e regole sempre visibili. Standard dispone del pulsante Aiuto. Entrambe hanno pulsanti ampi, navigazione da tastiera, feedback testuale, assenza di timer e lettura vocale se il browser la supporta. A+ aumenta il testo. La lettura vocale dipende dalle voci italiane disponibili sul dispositivo; non richiede servizi esterni integrati nel gioco.
+Nessun account, tracciamento, pubblicità o dipendenza esterna. Non vengono salvati risultati. Ricaricare la pagina riporta alla schermata iniziale; scegliendo una modalità parte una nuova sequenza.
+
+CONTENUTI
+Concordi/discordi, operazioni con numeri relativi, somma/sottrazione/prodotto/quoziente e potenza di monomi, potenze numeriche e riduzione di brevi espressioni. Si usano esponenti interi positivi. La divisione letterale specifica la condizione sul divisore nella spiegazione.
+ESERCIZI_E_SOLUZIONI.txt contiene il database leggibile per il docente.
+Grafica vettoriale originale realizzata per il gioco. Non sono utilizzate immagini generate con IA.
